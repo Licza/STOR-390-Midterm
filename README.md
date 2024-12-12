@@ -5,5 +5,5 @@ This repository contains a pdf and RMD file for the midterm paper for the course
 
 This paper will analyze the methodologies and results presented in “A Data-Driven Approach to Predicting Successes and Failures of Clinical Trials,” where the authors develop a data-driven model to predict the likelihood of drug toxicity in clinical trials, alongside the ethical implications this raises.
 
-Link to Final Project Repository: https://github.com/Licza/STOR-390-Final
+Link to Final Project Repository: https://github.com/Licza/390_Final
 
